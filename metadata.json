@@ -1,0 +1,5 @@
+{
+  "name": "MatInformatics AI",
+  "description": "A multi-agent system for Material Informatics workflows, capable of planning, data gathering, environment setup, code generation, and documentation.",
+  "requestFramePermissions": []
+}
